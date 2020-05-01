@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+}
+.heading{
+    text-align: center;
+    color: brown;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+}
+.container{
+    height: 450px;
+    width: 400px;
+    background-color: white;
+    margin-left: 35%;
+}
+.container-login{
+    height: 200px;
+    width: 400px;
+    background-color: white;
+    margin-left: 35%;
+}
+#google_icon{
+    color: white;
+}
+.icon-btn-google{
+    color: white;
+    background-color: red;
+    border: 2px solid red;
+    border-radius: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    margin-left: 88px;
+    margin-top: 20px;
+}
+.icon-btn-fb{
+    color: white;
+    background-color: rgb(75, 75, 231);
+    border: 2px solid rgb(75, 75, 231);
+    border-radius: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    margin-left: 88px;
+    margin-top: 20px;
+}
+.box{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 25px;
+    width: 230px;
+    margin-left: 88px;
+}
+::placeholder{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.submit-btn{
+    height: 30px;
+    width: 230px;
+    border: 2px solid green;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 88px;
+}
+.last_sentence{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 88px;
+}
+.link{
+    font-style: normal;
+    text-decoration: none;
+}
+.session_para{
+    margin-left: 88px;
+    color: red;
+    font-family: verdana;
+}
